@@ -3,3 +3,4 @@ print("Prazer em conhece-lo", nome)
 #Print formatado com o ".format"
 print("Nome: {}".format(nome))
 
+print('Teste')
